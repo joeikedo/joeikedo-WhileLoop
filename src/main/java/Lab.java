@@ -39,7 +39,7 @@ public class Lab {
 //        code here
         while(i < end){
             sum = sum + i;
-            i = i + 1;
+            i = i + 1; //Comment to commit
         }
 
         return sum;
